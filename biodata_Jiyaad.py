@@ -1,4 +1,3 @@
-# Program Biodata Statik Sederhana
 
 # 1. Mendefinisikan Variabel Biodata
 nama_lengkap = "Muhammad Jiyaad"
